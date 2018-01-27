@@ -15,7 +15,7 @@ Daty wykopów/zakopów zaczęły się pojawiać w marcu 2006, wcześniejsze wyko
 Ciekawostką jest że jest jeden wykop z datą wcześniejszą niż 2006 a dokładnie z datą 1983-06-30 09:56 oddany przez użytkownika Nivertius tutaj: [https://www.wykop.pl/link/12/co-nowego-w-operze-9/#voters](https://www.wykop.pl/link/12/co-nowego-w-operze-9/#voters)
 
 
-Część wykresów poniżej odnosi się do lat 2005-5017 a część (głównie tabele) tylko do roku 2017. Nie ma sensu przedstawianie rankingów dla danych sprzed 10 lat ponieważ wykop mocno się zmienił od tego czasu.
+Część wykresów poniżej odnosi się do lat 2005-2017 a część (głównie tabele) tylko do roku 2017. Nie ma sensu przedstawianie rankingów dla danych sprzed 10 lat ponieważ wykop mocno się zmienił od tego czasu.
 
 Poza tym nie chciałem powielać rankingu wszechczasów który wykop udostępnia tutaj: [https://www.wykop.pl/ranking/](https://www.wykop.pl/ranking/)
 
